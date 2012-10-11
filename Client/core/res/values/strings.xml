@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, RevampedInfoclickAndroidClientActivity!</string>
+    <string name="app_name">RevampedInfoclickAndroidClient</string>
+    
+	<string-array name="locationList">
+        <item value="ACERRA">Acerra</item>
+        <item value="CALVIZZANO">Calvizzano</item>
+        <item value="CASALNUOVO">Casalnuovo</item>
+        <item value="CASORIA">Casoria</item>
+        <item value="CERCOLA">Cercola</item>
+        <item value="ERCOLANO">Ercolano</item>
+        <item value="GIUGLIANO">Giugliano</item>
+        <item value="MARANO">Marano</item>
+        <item value="MASSA DI SOMMA">Massa di Somma</item>
+        <item value="MUGNANO">Mugnano</item>
+        <item value="NAPOLI">Napoli</item>
+        <item value="PISCINOLA">Piscinola</item>
+        <item value="POLLENA">Pollena</item>
+        <item value="PORTICI">Portici</item>
+        <item value="POZZUOLI">Pozzuoli</item>
+        <item value="QUARTO">Quarto</item>
+        <item value="SAN GIORGIO A CREMANO">San Giorgio a Cremano</item>
+        <item value="SAN SEBASTIANO">San Sebastiano</item>
+        <item value="TORRE DEL GRECO">Torre del Greco</item>
+        <item value="VILLARICCA">Villaricca</item>
+        <item value="VOLLA">Volla</item>
+    </string-array>
+
+</resources>
