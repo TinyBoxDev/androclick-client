@@ -1,0 +1,50 @@
+<resources>
+
+    <string name="app_name">Androclick</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_home">Androclick</string>
+    
+    <string name="stop_desc">Insert stop number</string>
+    <string name="stop_hint">e.g. 3329</string>
+    <string name="stop_long_hint">Long hint here</string>
+    
+    <string name="location_desc">...or by location as well.</string>
+    <string name="location_hint">e.g. cilea (no prefix!)</string>
+    
+    <string name="line_desc">You can search by line...</string>
+    <string name="line_hint">e.g. 181</string>
+    
+    
+    <string name="search_button">Search</string>
+    
+    <string name="starred_tab">Starred</string>
+    <string name="buses_tab">Buses</string>
+    <string name="find_tab">Find a stop</string>
+    <string name="results_tab">Results</string>
+    <string name="map_tab">Map</string>
+    
+    <string-array name="locationList">
+        <item value="ACERRA">Acerra</item>
+        <item value="CALVIZZANO">Calvizzano</item>
+        <item value="CASALNUOVO">Casalnuovo</item>
+        <item value="CASORIA">Casoria</item>
+        <item value="CERCOLA">Cercola</item>
+        <item value="ERCOLANO">Ercolano</item>
+        <item value="GIUGLIANO">Giugliano</item>
+        <item value="MARANO">Marano</item>
+        <item value="MASSA DI SOMMA">Massa di Somma</item>
+        <item value="MUGNANO">Mugnano</item>
+        <item value="NAPOLI">Napoli</item>
+        <item value="PISCINOLA">Piscinola</item>
+        <item value="POLLENA">Pollena</item>
+        <item value="PORTICI">Portici</item>
+        <item value="POZZUOLI">Pozzuoli</item>
+        <item value="QUARTO">Quarto</item>
+        <item value="SAN GIORGIO A CREMANO">San Giorgio a Cremano</item>
+        <item value="SAN SEBASTIANO">San Sebastiano</item>
+        <item value="TORRE DEL GRECO">Torre del Greco</item>
+        <item value="VILLARICCA">Villaricca</item>
+        <item value="VOLLA">Volla</item>
+    </string-array>
+    
+</resources>
